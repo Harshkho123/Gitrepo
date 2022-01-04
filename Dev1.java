@@ -79,7 +79,7 @@ public class Demo
 		int w=Math.max(Math.max(Math.max(p,v),Math.max(v,u)),Math.max(p,u));
 		
                 System.out.print("My name is Harshakl");
-	
+	System.out.print("My name is khode");
 		System.out.print(w+""+a+""+i+""+j);
 	}
 }
